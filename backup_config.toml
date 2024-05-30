@@ -1,0 +1,4 @@
+baseURL = 'https://charlestschirhart.com/'
+languageCode = 'en-us'
+title = 'Charles Tschirhart'
+theme = "avicenna"
