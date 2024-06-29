@@ -14,7 +14,6 @@ authors:
 - Andrea F. Young
 - Jie Shan
 - Kin Fai Mak
-- Another Researcher
 date: "2024-01-05"
 
 publication: "Nature Physics"
