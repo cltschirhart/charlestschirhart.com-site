@@ -22,10 +22,10 @@ authors:
 
 date: "2023-11-02"
 
-publication: "Nature Physics (accepted, awaiting publication)"
+publication: "Nature Physics, 2024"
 
 links:
-    link: https://arxiv.org/abs/2310.03781 
+    link: https://www.nature.com/articles/s41567-024-02561-6 
     #pdf: https://github.com/hadisinaee/avicenna
     #code: https://github.com/hadisinaee/avicenna
     #slides: https://github.com/hadisinaee/avicenna

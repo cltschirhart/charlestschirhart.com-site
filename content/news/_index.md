@@ -8,9 +8,13 @@ headless: true
 show_news_icons: false
 default_news_icon: "file-text"
 
-num_news: 2
+num_news: 3
 
 news_items:
+- text: "[Revealing the complex phases of rhombohedral trilayer graphene](https://www.nature.com/articles/s41567-024-02561-6), Trevor Arp & Owen Sheekey"
+  extra_text: "Trevor Arp and Owen Sheekey of UCSB describe the work they led in pursuit of a more complete understanding of the phase diagram of rhombohedral graphene using a nanoSQUID microscope."
+  link: https://www.nature.com/articles/s41567-024-02561-6
+  date: 2024-07-08
 - text: "[Berry does both](https://www.nature.com/articles/s41567-023-01982-z), Yonglong Xie"
   extra_text: "Professor Yonglong Xie of Rice University wrote an excellent summary and explanation of our recent work studying spin Hall torques in magnetic Chern insulators."  
   link: https://www.nature.com/articles/s41567-023-01982-z
